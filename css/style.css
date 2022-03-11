@@ -256,3 +256,10 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.question{
+  border: 2px solid green;
+  background-color: lavender;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
